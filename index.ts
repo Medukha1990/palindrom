@@ -9,3 +9,4 @@ function palindrome(str: string) {
 }
 
 palindrome(person);
+
