@@ -1,8 +1,11 @@
 {
-  "name": "palindrome",
+  "name": "internship_tasks",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "eslintIgnore": [
+    "dist"
+  ],
   "scripts": {
     "dev": "parcel index.html"
   },

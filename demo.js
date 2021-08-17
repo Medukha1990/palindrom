@@ -1,0 +1,14 @@
+"use strict";
+exports.__esModule = true;
+var palindrome_1 = require("./src/palindrome");
+var fizzBuzz_1 = require("./src/fizzBuzz");
+var armstrong_1 = require("./src/armstrong");
+var positive_numbers_1 = require("./src/positive_numbers");
+var fibonacci_1 = require("./src/fibonacci");
+var arrayOfNum = [0, 1, 3, -5, -4, 2, -7];
+console.log(palindrome_1["default"]('Some string'));
+fizzBuzz_1["default"](100);
+console.log(armstrong_1["default"](153));
+console.log(positive_numbers_1["default"](arrayOfNum));
+console.log(fibonacci_1.printFibonacci(10));
+console.log(fibonacci_1.fibonacci(5));
