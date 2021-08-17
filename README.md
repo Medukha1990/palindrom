@@ -4,8 +4,13 @@ npm run dev
 
 description:
 
-this code implements the task to determine: is the string is polindrome?
+this code implements the next tasks:
 
+1. Palindrome
+2. FizzBuzz
+3. Armstrong
+4. Positive numbers
+5. Fibonacci
 
 using technologies:
 
